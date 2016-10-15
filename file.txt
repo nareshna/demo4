@@ -6,4 +6,5 @@ thi is the fourth line of branch subtrach
 
 this is the fivth line of branch
 
+this is the six line of branch
 this is the seven line of master
